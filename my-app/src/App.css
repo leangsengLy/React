@@ -1,0 +1,27 @@
+.App{
+  width: 1200px;
+  height: 70px;
+  background-color: rgb(255, 6, 6);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding:0px 50px;
+  color:white;
+}
+.App div{
+  align-items: center;
+  display: flex;
+}
+.App div ul{
+  list-style-type: none;
+}
+.App div ul li{
+  float: left;
+  padding:0px 20px;
+}
+
+.title{
+  padding:10px 30px;
+  border: 1px solid white;
+}
+
