@@ -1,8 +1,8 @@
 import React from 'react'
 import './css/Navbar1.css';
-const Navbar1 = (props) => {
+const Navbar1 = () => {
   return (
-    <div className='div1'>Welcome to nabar1 {props.speak}</div>
+    <div className='div1'>Welcome to nabar1 </div>
   )
 }
 
